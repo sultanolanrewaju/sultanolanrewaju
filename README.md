@@ -5,12 +5,17 @@
 I am **Sultan Olanrewaju**, an aspiring Computer Scientist and Software Developer. I created this GitHub account to showcase my projects, skills, and my ongoing journey in computer science and software development.
 
 I am currently learning and building in **Full-Stack (MERN) Development** alongside core **Computer Science & Architecture Fundamentals**.
+<hr>
 
 **Contact Information**
 Email:sultanolanrewaju65@gmail.com
 Tel:(+234) 806 951 9297
 Whatsapp:(+234) 904 013 5258
 Personal Site: sultanresume.netlify.app
+<hr>
+
+**Find Me on Social Platform** 
+
 
 ---
 
