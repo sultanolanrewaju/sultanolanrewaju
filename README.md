@@ -33,8 +33,9 @@ I am currently learning and building in **Full-Stack (MERN) Development** alongs
 
 ### 📊 GitHub Stats
 
-<p align="left">
+<!-- <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=sultanolanrewaju&show_icons=true&theme=dark" alt="Sultan's GitHub Stats" />
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sultanolanrewaju&layout=compact&theme=dark" alt="Top Languages" />
-</p>
+</p> -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sultanolanrewaju&theme=dark)
