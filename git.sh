@@ -15,5 +15,5 @@ git add .
 git commit -m"${YELLOW}Updated Readme${NC}"
 git push origin main
 
-echo "${GREEN}Finally!! your code is being Shipped!${NC}"
+echo -e "${GREEN}Finally!! your code is being Shipped!${NC}"
 
