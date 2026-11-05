@@ -33,5 +33,8 @@ I am currently learning and building in **Full-Stack (MERN) Development** alongs
 
 ### 📊 GitHub Stats
 
-![Sultan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sultanolanrewaju&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sultanolanrewaju&layout=compact&theme=dark)
+<p align="left">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sultanolanrewaju&show_icons=true&theme=dark" alt="Sultan's GitHub Stats" />
+  <br>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sultanolanrewaju&layout=compact&theme=dark" alt="Top Languages" />
+</p>
