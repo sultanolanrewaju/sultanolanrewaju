@@ -7,7 +7,7 @@ I am **Sultan Olanrewaju**, an aspiring Computer Scientist and Software Develope
 I am currently learning and building in **Full-Stack (MERN) Development** alongside core **Computer Science & Architecture Fundamentals**. 
 <hr>
 
-You can join Me in the Journey or Collaborate with me in he journey: <br>
+You can join Me in the Journey or Collaborate with me in the journey: <br>
 **Contact Information**<br>
 <b>Email:</b>  sultanolanrewaju65@gmail.com<br>
 <b>Tel:</b> (+234) 806 951 9297<br>
