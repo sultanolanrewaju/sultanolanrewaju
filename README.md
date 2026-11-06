@@ -8,9 +8,9 @@ I am currently learning and building in **Full-Stack (MERN) Development** alongs
 <hr>
 
 **Contact Information**<br>
-<b>Email:</b>sultanolanrewaju65@gmail.com<br>
-<b>Tel:</b>(+234) 806 951 9297<br>
-<b>Whatsapp:</b>(+234) 904 013 5258<br>
+<b>Email:</b>  sultanolanrewaju65@gmail.com<br>
+<b>Tel:</b> (+234) 806 951 9297<br>
+<b>Whatsapp:</b>  (+234) 904 013 5258<br>
 <b>Personal Site:</b> sultanresume.netlify.app
 <hr>
 
