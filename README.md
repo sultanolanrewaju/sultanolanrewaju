@@ -2,11 +2,12 @@
 
 # 👋 Hello there!
 
-I am **Sultan Olanrewaju**, an aspiring Computer Scientist and Software Developer. I created this GitHub account to showcase my projects, skills, and my ongoing journey in computer science and software development.
+I am **Sultan Olanrewaju**, an aspiring Computer Scientist and Software Developer. I created this GitHub account to showcase my projects, skills,research and my ongoing journey in computer science and software development.
 
-I am currently learning and building in **Full-Stack (MERN) Development** alongside core **Computer Science & Architecture Fundamentals**.
+I am currently learning and building in **Full-Stack (MERN) Development** alongside core **Computer Science & Architecture Fundamentals**. 
 <hr>
 
+You can join Me in the Journey or Collaborate with me in he journey:
 **Contact Information**<br>
 <b>Email:</b>  sultanolanrewaju65@gmail.com<br>
 <b>Tel:</b> (+234) 806 951 9297<br>
