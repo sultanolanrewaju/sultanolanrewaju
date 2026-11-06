@@ -7,11 +7,11 @@ I am **Sultan Olanrewaju**, an aspiring Computer Scientist and Software Develope
 I am currently learning and building in **Full-Stack (MERN) Development** alongside core **Computer Science & Architecture Fundamentals**.
 <hr>
 
-**Contact Information**
-Email:sultanolanrewaju65@gmail.com
-Tel:(+234) 806 951 9297
-Whatsapp:(+234) 904 013 5258
-Personal Site: sultanresume.netlify.app
+**Contact Information**<br>
+<b>Email:</b>sultanolanrewaju65@gmail.com<br>
+<b>Tel:</b>(+234) 806 951 9297<br>
+<b>Whatsapp:</b>(+234) 904 013 5258<br>
+<b>Personal Site:</b> sultanresume.netlify.app
 <hr>
 
 **Find Me on Social Platform** 
