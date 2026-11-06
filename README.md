@@ -49,8 +49,9 @@ I am currently learning and building in **Full-Stack (MERN) Development** alongs
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sultanolanrewaju&layout=compact&theme=dark" alt="Top Languages" />
 </p> -->
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sultanolanrewaju&theme=dark)
 
-**GiHub Contribution Sanke game.**
+**GiHub Contribution Snake game.**
 
 ![GitHub Contribution Snake](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg)
