@@ -2,7 +2,7 @@
 
 # 👋 Hello there!
 
-I am **Sultan Olanrewaju**, an aspiring Computer Scientist and Software Developer. I created this GitHub account to showcase my projects, skills,research and my ongoing journey in computer science and software development.
+I am **Sultan Olanrewaju**, an aspiring Computer Scientist and Software Developer. I created this GitHub account to showcase my projects, skills,research and my ongoing journey in computer science and software development.I have different skills from website development to graphic designing.
 
 I am currently learning and building in **Full-Stack (MERN) Development** alongside core **Computer Science & Architecture Fundamentals**. 
 <hr>
