@@ -15,7 +15,8 @@ You can join Me in the Journey or Collaborate with me in the journey: <br>
   <b>Personal Site:</b> <a href="https://sultanresume.netlify.app" target="_blank">Click Here</a>
 <hr>
 
-**Find Me on Social Platform** 
+**Find Me on Social Platform** <br>
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/sultancodes2)
 
 
 ---
