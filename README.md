@@ -12,7 +12,7 @@ You can join Me in the Journey or Collaborate with me in the journey: <br>
 <b>Email:</b>  sultanolanrewaju65@gmail.com<br>
 <b>Tel:</b> (+234) 806 951 9297<br>
 <b>Whatsapp:</b>  (+234) 904 013 5258<br>
-<b>Personal Site:</b> <a href="sultanresume.netlify.app" target="blank">Click Here</a>
+<b>Personal Site:</b> <a href="sultanresume.netlify.app" target="_blank">Click Here</a>
 <hr>
 
 **Find Me on Social Platform** 
