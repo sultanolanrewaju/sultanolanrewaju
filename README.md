@@ -60,7 +60,28 @@ You can join Me in the Journey or Collaborate with me in the journey: <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sultanolanrewaju&layout=compact&theme=dark" alt="Top Languages" />
 </p> -->
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sultanolanrewaju&theme=dark)
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/the-official-nancy">
+        <img height="200px" src="https://github-readme-stats.shion.dev/api?username=the-official-nancy&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/the-official-nancy">
+        <img height="200px" src="https://github-readme-stats.shion.dev/api/top-langs?username=the-official-nancy&layout=compact&theme=radical&include_all_commits=true&count_private=true" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+
+<!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sultanolanrewaju&theme=dark) -->
+
+
+### ✍️  My Daily Quotes
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
 **GiHub Contribution Snake game.**
 
