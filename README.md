@@ -63,13 +63,13 @@ You can join Me in the Journey or Collaborate with me in the journey: <br>
 <table align="center">
   <tr>
     <td align="center">
-      <a href="https://github.com/the-official-nancy">
-        <img height="200px" src="https://github-readme-stats.shion.dev/api?username=the-official-nancy&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+      <a href="https://github.com/sultanolanrewaju">
+        <img height="200px" src="https://github-readme-stats.shion.dev/api?username=sultanolanrewaju&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/the-official-nancy">
-        <img height="200px" src="https://github-readme-stats.shion.dev/api/top-langs?username=the-official-nancy&layout=compact&theme=radical&include_all_commits=true&count_private=true" />
+      <a href="https://github.com/sultanolanrewaju">
+        <img height="200px" src="https://github-readme-stats.shion.dev/api/top-langs?username=sultanolanrewaju&layout=compact&theme=radical&include_all_commits=true&count_private=true" />
       </a>
     </td>
   </tr>
