@@ -50,7 +50,7 @@ You can join Me in the Journey or Collaborate with me in the journey: <br>
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 **System Programming**
-![C](https://img.shields.io/badge/C-0769AD?style=for-the-badge&logo=C&logoColor=white)
+![C](https://githubusercontent.com)
 
 ---
 
