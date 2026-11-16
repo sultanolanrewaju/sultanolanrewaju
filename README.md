@@ -4,7 +4,7 @@
 
 I am **Sultan Olanrewaju**, an aspiring Computer Scientist and Software Developer. I created this GitHub account to showcase my projects, skills,research and my ongoing journey in computer science and software development.I have different skills from website development to graphic designing.
 
-I am currently learning and building in **Full-Stack (MERN) Development** alongside core **Computer Science & Architecture Fundamentals**. 
+I am currently learning and building in **Full-Stack (MERN) Development** alongside core **Computer Science & System Programming.**. 
 <hr>
 
 You can join Me in the Journey or Collaborate with me in the journey: <br>
@@ -54,11 +54,11 @@ You can join Me in the Journey or Collaborate with me in the journey: <br>
 
 ### 📊 GitHub Stats
 
-<p align="left">
+<!-- <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=sultanolanrewaju&show_icons=true&theme=dark" alt="Sultan's GitHub Stats" />
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sultanolanrewaju&layout=compact&theme=dark" alt="Top Languages" />
-</p>
+</p> -->
 
 <table align="center">
   <tr>
