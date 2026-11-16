@@ -49,8 +49,8 @@ You can join Me in the Journey or Collaborate with me in the journey: <br>
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-**System Programming**
-I am currently learning C.
+**System Programming** <br>
+<b>I am currently learning C.</b>
 
 ---
 
