@@ -4,7 +4,7 @@
 
 I am **Sultan Olanrewaju**, an aspiring Computer Scientist and Software Developer. I created this GitHub account to showcase my projects, skills,research and my ongoing journey in computer science and software development.I have different skills from website development to graphic designing.
 
-I am currently learning and building in **Full-Stack (MERN) Development** alongside core **Computer Science & System Programming.**. 
+I am currently learning and building in **Full-Stack (MERN) Development** alongside core **Computer Science & System Programming**. 
 <hr>
 
 You can join Me in the Journey or Collaborate with me in the journey: <br>
@@ -49,6 +49,8 @@ You can join Me in the Journey or Collaborate with me in the journey: <br>
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
+**System Programming**
+![C](https://img.shields.io/badge/C-0769AD?style=for-the-badge&logo=C&logoColor=white)
 
 ---
 
